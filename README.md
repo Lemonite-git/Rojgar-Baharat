@@ -1,31 +1,32 @@
-# Tailwind Admin
+# Rojgar Baharat
 
-Super simple admin panel using [Tailwind CSS](https://tailwindcss.com).
+## Introduction
+Rozgaar bharat is a platform where the employer can hire respective employee according to his/her need. The employee can post his/her details and can even prepare his/her
+calendar according to the schedule. In this pandemic situation many daily wage workers and even middle-class employees had lost their jobs. So, this project will not only provide them a platform but also prevent labour exploitation. 
+<ul><li>Employee: He/She can post his/her resume and can see the day to day updates of the profile. </li>
+<li>Employer: He/She can hire the employee as per his/her needs for particular duration. </li>
+<li>Admin: He/She can just maintain the software and do the necessary to it.</li> 
+<li>Support team: They will be there for 24*7 and work as support system for the uneducated.</li>
+</ul>
 
-[Live Demo](https://tailwindadmin.netlify.app)
+## User Interface
 
-## Note
-For Tailwind CSS version < 1.0
-Please use 1.0.0 branch
+### Home Page
 
-To get started, clone or download the project
-Then Open index.html.
+<img src="https://github.com/Lemonite-git/Rojgar-Baharat/blob/main/PIC/Screenshot%20(486).png">
+<img src="https://github.com/Lemonite-git/Rojgar-Baharat/blob/main/PIC/Screenshot%20(487).png">
 
-### Dashboard
-![Image of Yaktocat](dist/images/dashboard.png)
+### Login SignUp
+<img src="https://github.com/Lemonite-git/Rojgar-Baharat/blob/main/PIC/Screenshot%20(490).png">
 
-### Login
+### Admin Dashboard
 
-![Image of Yaktocat](dist/images/login.png)
+<img src="https://github.com/Lemonite-git/Rojgar-Baharat/blob/main/PIC/Screenshot%20(491).png">
+<img src="https://github.com/Lemonite-git/Rojgar-Baharat/blob/main/PIC/Screenshot%20(492).png">
+<img src="https://github.com/Lemonite-git/Rojgar-Baharat/blob/main/PIC/Screenshot%20(493).png">
+<img src="https://github.com/Lemonite-git/Rojgar-Baharat/blob/main/PIC/Screenshot%20(494).png">
 
-### Please report any issue or suggestions in issue tracker, all issues or suggestions will be promptly addressed. We would love a pull request.
+### Search Page
 
-
-## TODO:
- * Animation
- * Datatables
- * Widgets
-
-## IN PROGRESS:
- * Vue Js based admin panel template
- 
+<img src="https://github.com/Lemonite-git/Rojgar-Baharat/blob/main/PIC/Screenshot%20(500).png">
+<img src="https://github.com/Lemonite-git/Rojgar-Baharat/blob/main/PIC/Screenshot%20(501).png">
